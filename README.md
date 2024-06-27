@@ -1,5 +1,6 @@
 # GoEvilDocs
 Malware development in Go, learn today, anti dynamic analysis &amp; Static &amp; sandboxes. 
+<a href="https://t.me/pulzetools"><img src="https://img.shields.io/badge/Join%20my%20Telegram%20group-2CA5E0?style=for-the-badge&logo=telegram&labelColor=db44ad&color=5e2775"></a>
 
 # Introduction:
 - Welcome to GoEvilDocs, your guide to using Go for developing malware that bypasses dynamic analysis, static detection, and sandbox environments. Explore advanced techniques to ensure your malicious Go applications evade detections.
